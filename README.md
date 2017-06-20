@@ -13,5 +13,8 @@ de las ciudades de esa provincia presentando un nivel de zoom adecuado.
 
 
 He llegado a esta conclusion, he usado como backend Laravel (framework de PHP) y como frontend JQuery.
+
 Para que hagan las pruebas que crean necesarias les dejo la aplicacion ya desplegada en un servidor propio para eliminar los problemas que pueda haber.
 [Link a la apliacacion](http://shopception.tk/pruebaTecnica)
+
+Espero que sea de su agrado y podamos seguir en contacto con el proceso de seleccion.
